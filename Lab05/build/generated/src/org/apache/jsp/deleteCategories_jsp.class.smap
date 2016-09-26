@@ -1,0 +1,23 @@
+SMAP
+deleteCategories_jsp.java
+JSP
+*S JSP
+*F
++ 0 deleteCategories.jsp
+deleteCategories.jsp
+*L
+5,18:52
+22,19:70
+41,15:90
+55,3:105
+58:108,3
+59,6:111
+65,3:118
+67:121
+68,2:122,3
+70,5:128
+75,2:134
+76:136
+77:137,3
+78,10:140
+*E
